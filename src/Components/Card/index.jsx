@@ -1,6 +1,6 @@
 const Card = () => {
     return (
-        <div>
+        <div className="bg-white">
           <figure>
             <span></span>
             <img src="" alt="" />
